@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{CF416C81-159B-46D3-B068-C4F3D72A5153}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample_mvc_project/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="sample_mvc_project/Program.cs" Line="33" Column="1" />
+      <File FileName="sample_mvc_project/Properties/launchSettings.json" Line="20" Column="35" />
+      <File FileName="sample_mvc_project/Controllers/HomeController.cs" Line="25" Column="1" />
+      <File FileName="sample_mvc_project/Controllers/LoginController.cs" Line="21" Column="25" />
+      <File FileName="sample_mvc_project/appsettings.json" Line="1" Column="1" />
+      <File FileName="sample_mvc_project/Models/StudentInfo.cs" Line="16" Column="1" />
+      <File FileName="sample_mvc_project/Models/StudentInfoContext.cs" Line="14" Column="6" />
+      <File FileName="sample_mvc_project/Models/StudentInfoDTO.cs" Line="13" Column="1" />
+      <File FileName="sample_mvc_project/Models/ErrorViewModel.cs" Line="7" Column="67" />
+      <File FileName="sample_mvc_project/Views/Profile/Details.cshtml" Line="1" Column="1" />
+      <File FileName="sample_mvc_project/Controllers/ProfileController.cs" Line="25" Column="1" />
+      <File FileName="sample_mvc_project/Views/Home/Index.cshtml" Line="43" Column="46" />
+      <File FileName="sample_mvc_project/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+      <File FileName="sample_mvc_project/Views/Login/Index.cshtml" Line="20" Column="1" />
+      <File FileName="sample_mvc_project/Views/Login/Login.cshtml" Line="40" Column="45" />
+      <File FileName="sample_mvc_project/Views/Login/Signup.cshtml" Line="25" Column="29" />
+      <File FileName="sample_mvc_project/Views/Profile/Index.cshtml" Line="7" Column="20" />
+      <File FileName="sample_mvc_project/Views/_ViewImports.cshtml" Line="5" Column="1" />
+      <File FileName="sample_mvc_project/Views/_ViewStart.cshtml" Line="5" Column="1" />
+      <File FileName="sample_mvc_project/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="sample_mvc_project/CSS/login.css" Line="1" Column="1" />
+      <File FileName="sample_mvc_project/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="sample_mvc_project/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="sample_mvc_project/Views/Shared/_Layout.cshtml" Line="37" Column="39" />
+      <File FileName="sample_mvc_project/Views/Shared/Error.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sample_mvc_project" expanded="True">
+            <Node name="sample_mvc_project" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Login" expanded="True" />
+                <Node name="Profile" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sample__mvc__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
